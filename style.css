@@ -1,0 +1,22 @@
+.image{
+    margin: 10vh 25vw;
+    
+}
+
+.image img{
+    width: 700px;
+   height: 500px;
+    display: block;
+    margin: 0 ;
+}
+
+.image button{
+    padding: 30px 311px;
+   
+    
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    color:black;
+    font-size: 18px;
+    font-weight: bold;
+   
+}
